@@ -21,7 +21,7 @@ yarn add @react-native-firebase/messaging
 # If you're developing your app using iOS, run this command
 cd ios/ && pod install
 ```
-
+ jjj
 > iOS requires further configuration before you can start receiving and sending
 > messages through Firebase. Read the documentation on how to [setup iOS with Firebase Cloud Messaging](/messaging/usage/ios-setup).
 
